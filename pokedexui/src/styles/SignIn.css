@@ -1,0 +1,27 @@
+.shadow{
+  background-color: rgba(254, 254, 254, 0.283);
+}
+form{
+  color: white;
+}
+.input-group-text{
+  height: 40px;
+  margin-right: 3px;
+}
+h1{
+  color: rgb(241, 238, 53);
+}
+.shadow{
+  margin-top: 50px;
+  width: 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p{
+  font-size: larger;
+  color:aliceblue;
+}
+button{
+  margin-top: 10px;
+  width: 300px;
+}
